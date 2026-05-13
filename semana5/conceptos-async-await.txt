@@ -1,47 +1,37 @@
 Conceptos básicos de async y await – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 13 de mayo de 2026
+Nombre de la rama: cristian_gaviria
 
 Responde con tus propias palabras.
 
 1. ¿Qué es una promesa en JavaScript?
-
-Respuesta:
+Es un objeto que representa un valor que estará disponible ahora, en el futuro o nunca. Es como un "vale" por un dato que aún se está procesando.
 
 2. ¿Qué significa async?
-
-Respuesta:
+Es una palabra clave que se pone antes de una función para indicar que esa función manejará procesos asíncronos y que siempre devolverá una promesa.
 
 3. ¿Qué significa await?
-
-Respuesta:
+Es una instrucción que hace que el código se "espere" en esa línea hasta que la promesa se resuelva, permitiendo obtener el resultado directamente antes de seguir.
 
 4. ¿Por qué fetch devuelve una promesa?
-
-Respuesta:
+Porque pedir datos a un servidor toma tiempo (red, procesamiento) y JavaScript no puede detener todo el programa mientras espera la respuesta; por eso entrega una promesa para avisar cuando termine.
 
 5. ¿Qué diferencia viste entre .then() y async/await?
-
-Respuesta:
+.then() usa funciones encadenadas (callbacks) que pueden volverse confusas, mientras que async/await permite escribir el código de forma lineal, como si fuera síncrono.
 
 6. ¿Qué hace try en esta práctica?
-
-Respuesta:
+Envuelve el bloque de código que queremos ejecutar y que sospechamos que podría fallar (como una petición a una API que no responde).
 
 7. ¿Qué hace catch en esta práctica?
-
-Respuesta:
+Captura el error si algo sale mal dentro del bloque try y nos permite decidir qué hacer (como mostrar un mensaje de error en el sitio) sin que la aplicación se detenga.
 
 8. ¿Qué ruta se usa para cargar mensajes?
-
-Respuesta:
+Generalmente en este proyecto se usa /api/mensajes (o la ruta específica definida en tu server.js).
 
 9. ¿Qué ruta se usa para cargar calendario editorial?
-
-Respuesta:
+Normalmente se usa /api/calendario dentro de la estructura de tu API comunitaria.
 
 10. ¿Cómo ayuda async y await a leer mejor el código?
-
-Respuesta:
+Evita el anidamiento excesivo de funciones y hace que la lógica parezca una lista de pasos ordenados, lo que facilita encontrar errores y entender qué hace el programa.

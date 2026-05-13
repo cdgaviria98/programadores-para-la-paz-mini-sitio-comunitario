@@ -1,8 +1,8 @@
 Pruebas del mini-sitio y API – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 13 de mayo de 2026
+Nombre de la rama: cristian_gaviria
 
 Prueba 1: Abrir mini-sitio
 
@@ -12,10 +12,10 @@ http://localhost:3000
 Resultado esperado:
 El navegador muestra el mini-sitio comunitario.
 
-Resultado observado:
+Resultado observado: Cargó el mini_sitio en HTML
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SI
 
 Prueba 2: Cargar mensajes
 
@@ -25,10 +25,10 @@ Hacer clic en Cargar mensajes.
 Resultado esperado:
 Aparecen mensajes comunitarios con título, mensaje, categoría, audiencia, tono, llamado a la acción y fuente.
 
-Resultado observado:
+Resultado observado: Si aparecieron los mensajes con con título, mensaje, categoría, audiencia, tono, llamado a la acción y fuente.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SI
 
 Prueba 3: Cargar calendario editorial
 
@@ -38,26 +38,28 @@ Hacer clic en Cargar calendario.
 Resultado esperado:
 Aparecen 6 piezas del calendario editorial.
 
-Resultado observado:
+Resultado observado: Si aparecen las 6 piezas
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SI
 
 Prueba 4: Ruta directa de mensajes
 
 Ruta:
 http://localhost:3000/api/mensajes
 
-Resultado observado:
+Resultado observado: Aparecen los mensajes, en formato JSON
 
 Prueba 5: Ruta directa de calendario
 
 Ruta:
 http://localhost:3000/api/calendario
 
-Resultado observado:
+Resultado observado: Aparecen las piezas, en formato JSON 
 
 Conclusión:
 ¿Qué prueba te ayudó más a entender cómo el mini-sitio consume la API?
 
-Respuesta:
+Respuesta: Las pruebas 4 y 5 (rutas directas). Ver los datos en formato JSON directamente en el navegador permite entender que el mini-sitio 
+no tiene la información "escrita" en el HTML, sino que la solicita a una fuente externa (la API). Esto aclara que el sitio web funciona solo 
+como una capa visual que organiza y muestra los datos que el servidor le entrega.

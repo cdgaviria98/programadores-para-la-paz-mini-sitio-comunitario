@@ -1,8 +1,8 @@
 Reflexión sobre mini-sitio comunitario – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 13 de mayo de 2026
+Nombre de la rama: cristian_gaviria
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -31,3 +31,13 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+
+Un mini-sitio que se conecta a una central de información (API) ayuda a que la comunidad reciba siempre datos reales y verificados, 
+evitando que circulen rumores o noticias falsas. Al usar un proyecto único en GitHub, todo el equipo trabaja de forma organizada: 
+los profes mantienen la base oficial en la rama main mientras cada uno hace sus pruebas en una rama personal, lo que garantiza una 
+consistencia comunicativa para que el sitio no se rompa ni pierda su mensaje.
+
+Gracias a herramientas como fetch, async y await, el sitio carga la información de forma rápida y fluida, permitiendo que el 
+calendario editorial se mantenga al día automáticamente. Este esfuerzo técnico facilita una moderación editorial básica, 
+asegurando que los mensajes usen un lenguaje responsable y no estigmatizante. Al final, esta organización no solo entrega datos, 
+sino que construye una cultura de paz donde la información es clara, segura y útil para todos.

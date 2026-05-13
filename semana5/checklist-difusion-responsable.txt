@@ -1,8 +1,8 @@
 Checklist de difusión responsable – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 13 de mayo de 2026
+Nombre de la rama: cristian_gaviria
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,70 +10,71 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El mensaje aporta información útil para la comunidad?
 
-Respuesta:
+    SÍ. Cada pieza aborda necesidades reales: desde prevenir la desinformación hasta fomentar l
+    a convivencia y la participación activa en el proyecto.
 
 2. Planificación del calendario editorial
 
 ¿La publicación está organizada por fecha, canal, responsable y propósito?
 
-Respuesta:
+    SÍ. El calendario está estructurado detallando cada uno de estos campos para asegurar que el equipo docente y de comunicaciones sepa qué y dónde publicar.
 
 3. Calendario editorial
 
 ¿La pieza está ubicada dentro de una secuencia de publicaciones de dos semanas?
 
-Respuesta:
+    SÍ. Se presenta una planeación clara que abarca desde la Semana 1 (Lunes) hasta el balance final en la Semana 2 (Viernes).
 
 4. Revisión de fuentes
 
 ¿El mensaje indica fuente o criterio de verificación cuando hace afirmaciones?
 
-Respuesta:
+    SÍ. Todas las piezas incluyen el campo "Fuente", citando protocolos, formularios comunitarios o el canal institucional.
 
 5. Consistencia comunicativa
 
 ¿El mensaje mantiene coherencia con el propósito general de la campaña?
 
-Respuesta:
+    SÍ. Existe un hilo conductor enfocado en la responsabilidad digital, el respeto y la construcción de paz.
 
 6. Consistencia editorial
 
 ¿El tono, el lenguaje y el llamado a la acción son coherentes con las demás piezas?
 
-Respuesta:
+    SÍ. Se mantiene una uniformidad donde el tono (preventivo, pedagógico, informativo) se alinea directamente con el objetivo de cada mensaje.
 
 7. Moderación editorial básica
 
 ¿El mensaje debería revisarse antes de publicarse?
 
-Respuesta:
+    SÍ. Según el protocolo y las observaciones del calendario (como en la convocatoria de la Semana 1 - Viernes), toda pieza pasa por una revisión para asegurar su calidad.
 
 8. Público objetivo
 
 ¿Está claro a quién va dirigido?
 
-Respuesta:
+    SÍ. Se especifica si el mensaje es para la "comunidad general", "jóvenes participantes" o "líderes comunitarios".
 
 9. Tono
 
 ¿El tono es adecuado para la audiencia?
 
-Respuesta:
+    SÍ. Se utiliza un tono pedagógico con los jóvenes y uno informativo/protocolario con los líderes, adaptándose a cada contexto.
 
 10. Llamado a la acción
 
 ¿La persona que lee sabe qué hacer después?
 
-Respuesta:
+    SÍ. Cada mensaje cierra con una instrucción clara: "Verifica", "Participa", "Envía una propuesta" o "Consulta".
 
 11. Lenguaje responsable y no estigmatizante
 
 ¿El mensaje evita insultos, generalizaciones, alarmismo, exclusión o señalamientos sin evidencia?
 
-Respuesta:
+    SÍ. Las observaciones editoriales recalcan explícitamente evitar el lenguaje acusatorio y promover el respeto.
 
 12. Minimización de datos
 
 ¿El mensaje evita publicar datos personales innecesarios?
 
-Respuesta:
+    SÍ. Se menciona específicamente en la pieza de "Seguimiento comunitario" que el propósito es mostrar avances sin exponer datos sensibles.

@@ -23,12 +23,12 @@
     },
     {
       "id": 3,
-      "titulo": "Avisos comunitarios claros",
-      "mensaje": "Los avisos deben indicar propósito, fecha, fuente y acción esperada para evitar confusión.",
+      "titulo": "Comunicación que genera confianza",
+      "mensaje": "Un aviso claro es el primer paso para una comunidad unida. Asegúrate de incluir siempre el propósito, la fecha, quién informa y qué se espera de los vecinos.",
       "categoria": "convivencia-digital",
       "audiencia": "líderes comunitarios",
       "tono": "informativo",
-      "llamadoAccion": "Publica avisos con información completa.",
+      "llamadoAccion": "Haz que tu próximo mensaje cuente! Verifica los datos antes de publicar.",
       "fuente": "Protocolo editorial del curso",
       "revisionEditorial": "aprobada"
     }
