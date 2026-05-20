@@ -68,7 +68,6 @@ Explicación: Establece bajo una cláusula ética que cualquier sugerencia de
 código o lógica proporcionada por una IA debe ser revisada, comprendida y 
 probada a fondo antes de ser aceptada en el proyecto.
 
-
 8. No exposición de credenciales
 ¿El README evita publicar credenciales reales?
 

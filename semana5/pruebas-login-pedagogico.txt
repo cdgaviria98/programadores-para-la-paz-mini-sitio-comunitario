@@ -54,12 +54,20 @@ Prueba 4: Revisar almacenamiento del token de demostración
 
 ¿Qué token de demostración devuelve el servidor?
 
-Respuesta:
+Respuesta: Devuelve un token estático de prueba (por ejemplo, "token-falso-
+clase-25" o "token-pedagogico-demo") que se almacena temporalmente en el 
+navegador para simular el estado de una sesión activa.
 
 5. ¿Por qué este token no debe confundirse con seguridad real?
 
-Respuesta:
+Respuesta: Porque es un texto plano estático y predecible que está quemado 
+en el código con fines puramente didácticos. No cuenta con cifrado criptográfico, 
+no tiene tiempo de expiración real ni está respaldado por firmas digitales 
+seguras (como un JWT real), por lo que cualquier usuario podría manipularlo.
 
 6. ¿Para qué se usará este login en la Clase 25?
 
-Respuesta:
+Respuesta: Se usará para introducir el concepto de middleware en Express. 
+Servirá para interceptar las peticiones del frontend y enseñar cómo el 
+servidor puede verificar de forma automática si un usuario tiene el token 
+válido antes de permitirle el acceso a las rutas protegidas del sistema.

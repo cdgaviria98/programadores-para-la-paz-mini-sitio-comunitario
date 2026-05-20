@@ -25,3 +25,16 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+
+Documentar un desarrollo social mediante un buen README es clave para 
+garantizar la transferencia tecnológica, permitiendo que otros miembros 
+del equipo entiendan y continúen el código sin fricciones. Adoptar la 
+documentación como transparencia y mantener una rigurosa trazabilidad 
+en Git con commits claros demuestra que el proyecto se construye de 
+forma abierta y ordenada. Además, establecer reglas estrictas como la 
+no exposición de credenciales y la no publicación de información 
+sensible protege la integridad de los datos de los usuarios del sector. 
+Por último, el apoyo verificable de IA, sumado a una excelente claridad 
+operativa en los despliegues, consolida la confianza comunitaria, ya 
+que la tecnología se vuelve un canal seguro que impulsa la 
+participación ciudadana y una verdadera cultura de paz.

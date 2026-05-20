@@ -56,7 +56,7 @@ Respuesta: git add .
 
 13. Comando usado para crear commit:
 
-Respuesta: git commit -m "Clase 23 integracion frontend backend API propia"
+Respuesta: git commit -m "Clase 24 README IA login pedagogico"
 
 14. Comando usado para publicar tu rama:
 

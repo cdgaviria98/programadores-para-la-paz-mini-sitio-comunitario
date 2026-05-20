@@ -18,32 +18,61 @@ No debes compartir con IA:
 1. ¿Para qué usaste IA en esta clase?
 Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
 
-Respuesta:
+Respuesta: Usé la IA para estructurar y mejorar visualmente el archivo 
+README.md del proyecto, organizar las respuestas técnicas de los 
+checklists de las clases 22, 23 y 24, y optimizar la redacción de una 
+reflexión sobre la integración frontend-backend con un lenguaje claro.
+
 
 2. Escribe la pregunta que hiciste a la IA:
 
-Respuesta:
+Respuesta: "puedes mejorar este README.md [contenido del archivo] ... 
+organizalo para mi txt ... puedes mejorar esto [fragmento con estructura y 
+comandos de Git] ... ayuda a mejorar este mensaje en formato json ... 
+responde la reflexión con un lenguaje simple como de un estudiante de 6to semestre."
+
 
 3. Resume la respuesta recibida:
 
-Respuesta:
+Respuesta: La IA devolvió el archivo README.md reorganizado con bloques de 
+código limpios, iconos visuales y una separación clara de las tareas de Git. 
+También completó los checklists con explicaciones técnicas basadas en los 
+endpoints reales del proyecto y adaptó la reflexión a un tono estudiantil directo.
+
 
 4. ¿Qué parte de la respuesta aplicaste?
 
-Respuesta:
+Respuesta: Apliqué toda la estructura organizada para los archivos de texto plano 
+(.txt), las correcciones de sintaxis en el archivo JSON (como la corrección de 
+"revisionEditorial"), y los comandos detallados para el flujo de sincronización 
+diaria en Git.
+
 
 5. ¿Qué parte decidiste no aplicar?
 
-Respuesta:
+Respuesta: Al principio no apliqué los textos que sonaban demasiado complejos o 
+con palabras muy sofisticadas para las reflexiones, por lo que solicité un ajuste 
+para que el lenguaje fuera más natural, simple y acorde a mi nivel académico.
+
 
 6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
 
-Respuesta:
+Respuesta: Verifiqué los comandos ejecutándolos directamente en la consola de mi 
+entorno local, validé que el objeto JSON corregido no tuviera errores de tipografía 
+abriendo los datos en el servidor, y revisé que la estructura del árbol de 
+directorios coincidiera exactamente con mis carpetas reales.
+
 
 7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
 
-Respuesta:
+Respuesta: NO. Únicamente compartí la estructura genérica del proyecto, las rutas 
+públicas de la API y las credenciales pedagógicas de prueba ("docente" y "demo") 
+que vienen por defecto en la guía del curso para fines estrictamente educativos.
+
 
 8. ¿Qué aprendiste sobre uso responsable de IA?
 
-Respuesta:
+Respuesta: Aprendí que la IA es una herramienta excelente para agilizar el 
+formateo de la documentación y refinar la redacción técnica, pero que nunca se debe 
+confiar a ciegas en sus respuestas. Es obligatorio revisar cada línea de código, 
+probar los flujos en la terminal y mantener una estricta privacidad de los datos.

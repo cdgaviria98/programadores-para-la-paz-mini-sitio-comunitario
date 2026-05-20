@@ -7,70 +7,80 @@ Nombre de la rama: cristian_gaviria
 Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
 
 1. Requisitos del entorno
-
 ¿Qué debe tener instalado la persona?
-Ejemplos: Git, Node.js, navegador, editor de código.
 
-Respuesta:
+Respuesta: La persona debe tener instalado un editor de código (como 
+VS Code), Git para el control de versiones, Node.js (entorno de ejecución 
+de JavaScript) y un navegador web moderno (como Chrome, Brave o Firefox).
+
 
 2. Clonar repositorio
-
 Comando:
 
-Respuesta:
+Respuesta: git clone URL_DEL_REPOSITORIO
+
 
 3. Entrar a la carpeta del proyecto
-
 Comando:
 
-Respuesta:
+Respuesta: cd programadores-para-la-paz-mini-sitio-comunitario
+
 
 4. Crear o cambiar a rama personal
-
 Comando:
 
-Respuesta:
+Respuesta: git checkout nombres_apellidos
+(Nota: Si es la primera vez que se crea, se usa: git checkout -b nombres_apellidos)
+
 
 5. Instalar dependencias
-
 Comando:
 
-Respuesta:
+Respuesta: npm install
+
 
 6. Ejecutar el proyecto
-
 Comando:
 
-Respuesta:
+Respuesta: npm run sitio
+
 
 7. Abrir en navegador
-
 Dirección:
 
-Respuesta:
+Respuesta: http://localhost:3000
+
 
 8. Probar rutas de la API
-
 Escribe las rutas que se deben probar:
 
-Respuesta:
+Respuesta: Se deben ingresar en el navegador o en una herramienta de pruebas 
+las siguientes direcciones de consulta local:
+- http://localhost:3000/api/mensajes
+- http://localhost:3000/api/calendario
+- http://localhost:3000/api/resumen
+
 
 9. Probar login pedagógico
+Usuario de demostración: docente
+Clave de demostración: demo
+Resultado esperado: Login pedagógico correcto. El backend procesará los datos 
+y preparará el concepto de token/middleware para la Clase 25.
 
-Usuario de demostración:
-
-Clave de demostración:
-
-Resultado esperado:
 
 10. Verificación final
-
 ¿Cómo sabe la persona que el proyecto está funcionando?
 
-Respuesta:
+Respuesta: Sabrá que funciona porque la terminal mostrará que el servidor 
+Express está escuchando activamente en el puerto 3000 y, al presionar los 
+botones de "Cargar" en el navegador, las tarjetas del tablero se llenarán 
+de forma dinámica con los datos provenientes de los archivos JSON.
+
 
 11. Nota de seguridad
-
 ¿Qué información NO debe publicarse?
 
-Respuesta:
+Respuesta: Bajo ninguna circunstancia se deben subir al repositorio ni compartir 
+con Inteligencias Artificiales contraseñas reales, tokens de acceso válidos, 
+datos personales identificables de los estudiantes o información sensible de 
+la comunidad. Todo debe manejarse con datos ficticios o pedagógicos.
