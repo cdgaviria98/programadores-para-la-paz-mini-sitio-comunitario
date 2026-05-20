@@ -7,61 +7,82 @@ Nombre de la rama: cristian_gaviria
 Completa el flujo con tus palabras.
 
 1. Frontend
-
 ¿Qué parte del proyecto corresponde al frontend?
 
-Respuesta:
+Respuesta: La ruta inicial http://localhost:3000/, la organización visual del 
+texto, el tipo de letra, los bloques, la forma de los botones y demás estilos 
+corresponden al frontend. Es todo lo que el usuario ve e interactúa en el navegador.
+
 
 2. Backend
-
 ¿Qué parte del proyecto corresponde al backend?
 
-Respuesta:
+Respuesta: Corresponde al archivo "server.js" ejecutándose con Node.js y Express. 
+Es la lógica que corre en el servidor oculto al usuario, encargada de escuchar 
+las peticiones del navegador, procesar la autenticación pedagógica y servir los 
+datos correctos.
+
 
 3. API propia
-
 ¿Qué rutas expone la API propia del proyecto?
 
-Respuesta:
+Respuesta: Expone cuatro rutas principales: las rutas de consulta GET 
+(/api/mensajes, /api/calendario y /api/resumen) para distribuir los contenidos, 
+y la ruta pedagógica POST (/api/login) para simular el inicio de sesión.
+
 
 4. Datos
-
 ¿Qué archivos JSON usa el backend para responder?
 
-Respuesta:
+Respuesta: Usa los archivos planos guardados en la carpeta data: "mensajes.json" 
+(para la vitrina comunitaria) y "calendario-editorial.json" (para la planificación 
+de las publicaciones).
+
 
 5. Consulta desde frontend
-
 ¿Qué función de JavaScript se usa para consultar la API?
 
-Respuesta:
+Respuesta: Se utiliza la función nativa "fetch()". Esta función se dispara desde 
+el archivo "app.js" (por ejemplo, al hacer clic en un botón) para ir a buscar los 
+datos a las rutas del servidor.
+
 
 6. Espera de respuesta
-
 ¿Qué palabras se usan para esperar la respuesta del servidor?
 
-Respuesta:
+Respuesta: Se usan las palabras clave "async" (para declarar que la función es 
+asíncrona) y "await" (para pausar la ejecución del código hasta que el servidor 
+responda, evitando que la página se congele).
+
 
 7. Conversión de respuesta
-
 ¿Qué hace respuesta.json()?
 
-Respuesta:
+Respuesta: Toma los datos planos que llegan del servidor a través de la red y los 
+transforma (parsea) en un objeto o arreglo de JavaScript que el código del frontend 
+pueda leer, recorrer y manipular fácilmente.
+
 
 8. Render dinámico
-
 ¿Qué significa mostrar datos dinámicamente en el tablero?
 
-Respuesta:
+Respuesta: Significa que la página no tiene los textos escritos rígidamente en el 
+HTML. En su lugar, el HTML está vacío y las tarjetas se construyen y dibujan en 
+pantalla usando la información exacta que se acaba de traer desde la API en ese instante.
+
 
 9. Prueba
-
 ¿Cómo verificaste que la información del tablero coincide con la API?
 
-Respuesta:
+Respuesta: Al presionar los botones "Cargar", contrasté que los títulos, categorías 
+y fuentes que aparecieron en las tarjetas del navegador coincidieran exactamente con 
+los arreglos de objetos definidos en los archivos JSON de la carpeta data.
+
 
 10. Propósito comunitario
-
 ¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
 
-Respuesta:
+Respuesta: Ayuda porque permite separar el diseño de la información. Si un líder 
+comunitario necesita agregar o corregir un aviso, solo se debe actualizar el archivo 
+JSON en el servidor; el mini-sitio web mostrará los nuevos cambios automáticamente a 
+toda la comunidad sin necesidad de tocar ni una sola línea de código HTML o CSS.

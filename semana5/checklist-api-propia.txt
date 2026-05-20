@@ -91,7 +91,7 @@ peticiones HTTP (200 OK) y confirmar la correcta lectura de los archivos JSON.
 10. Comunicación responsable
 ¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
 
-Respuesta: SÍ.
+Respuesta: Si.
 Explicación: La información servida de forma dinámica mantiene un tono
 pedagógico e informativo, atribuye claramente el origen de los datos mediante
 fuentes institucionales y promueve un lenguaje constructivo y libre de estigmas.

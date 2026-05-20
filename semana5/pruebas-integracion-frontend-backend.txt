@@ -106,4 +106,6 @@ Respuesta: Si
 Conclusión:
 ¿Cómo comprobaste que el frontend está conectado con el backend?
 
-Respuesta: Cuando se usa el login se puede evidenciar que están conectados.
+Respuesta: Cuando se usa el login se puede evidenciar que están conectados,
+tambien al hacer clic en los botones evidenciamos que la información mostrada
+corresponde a la almacenada en el backend.

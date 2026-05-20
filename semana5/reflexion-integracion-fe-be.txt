@@ -29,3 +29,16 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+
+La integración Frontend-Backend hace que el mini-sitio deje de ser una 
+página estática y se convierta en una aplicación real. Mediante el 
+consumo de la API propia, el frontend puede pedir la información usando 
+fetch junto con async y await, lo que permite traer los datos de fondo 
+sin bloquear la experiencia del usuario. El backend procesa la petición 
+y responde mandando un archivo JSON con los datos estructurados, los 
+cuales se transforman en pantalla mediante un render dinámico. Esto es 
+clave para una comunicación responsable, ya que si un líder comunitario 
+necesita actualizar un aviso o cambiar una fecha del calendario, solo 
+debe modificar el archivo de datos sin tener que tocar el código HTML. 
+Así, la tecnología facilita una participación ciudadana real con 
+información confiable y al día.

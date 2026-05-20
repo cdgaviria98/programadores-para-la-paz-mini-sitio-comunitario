@@ -1,7 +1,7 @@
 Bitácora Git del proyecto vivo – Clase 21
 
 Nombre del estudiante: Cristian David Gaviria Mosquera
-Fecha: 13 de mayo de 2026
+Fecha: 19 de mayo de 2026
 Nombre de la rama: cristian_gaviria
 
 1. Nombre del repositorio único de Semana 5:
@@ -56,7 +56,7 @@ Respuesta: git add .
 
 13. Comando usado para crear commit:
 
-Respuesta: git commit -m "Clase 21 inicio proyecto unico mini sitio"
+Respuesta: git commit -m "Clase 23 integracion frontend backend API propia"
 
 14. Comando usado para publicar tu rama:
 

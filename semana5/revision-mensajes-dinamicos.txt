@@ -8,44 +8,63 @@ Selecciona un mensaje que aparezca en el tablero y responde.
 
 1. Título del mensaje seleccionado:
 
-Respuesta:
+Respuesta: Verifica antes de compartir
 
 2. ¿El mensaje se cargó dinámicamente desde la API?
 
-Respuesta:
+Respuesta: Si
 
 3. ¿El mensaje tiene propósito comunitario?
 
-Respuesta:
+Respuesta: Si
 
 4. ¿El mensaje tiene audiencia clara?
 
-Respuesta:
+Respuesta: Si
 
 5. ¿El tono es adecuado?
 
-Respuesta:
+Respuesta: Si
 
 6. ¿El llamado a la acción es comprensible?
 
-Respuesta:
+Respuesta: Si
 
 7. ¿El mensaje tiene fuente o criterio de verificación?
 
-Respuesta:
+Respuesta: Si
 
 8. ¿Mantiene consistencia comunicativa con los demás mensajes?
 
-Respuesta:
+Respuesta: Si
 
 9. ¿Requiere moderación editorial básica antes de publicarse?
 
-Respuesta:
+Respuesta: No
 
 10. ¿Usa lenguaje responsable y no estigmatizante?
 
-Respuesta:
+Respuesta: Si
 
 11. Escribe una mejora editorial para el mensaje:
 
 Respuesta:
+
+{
+  "id": 1,
+  "titulo": "¡Frena el rumor! Verifica antes de compartir",
+  "mensaje": "Antes de reenviar un mensaje, haz una pausa: confirma la fecha, revisa el emisor oficial y evita difundir textos que generen pánico o alarma innecesaria.",
+  "categoria": "prevencion-desinformacion",
+  "audiencia": "comunidad general",
+  "tono": "preventivo y asertivo",
+  "llamadoAccion": "¡Sé parte de la solución! Consulta canales oficiales antes de difundir.",
+  "fuente": "Canal institucional comunitario",
+  "revisionEditorial": "aprobada"
+}
+
+Al añadir signos de exclamación (¡!) se aumenta el 
+impacto del título y del llamado a la acción. El cuerpo del mensaje se 
+mejoró  con verbos de acción directa ("haz una pausa", "confirma") para 
+apelar a la responsabilidad individual, transformando una advertencia 
+pasiva en una invitación activa a cuidar la convivencia digital de la 
+comunidad.
