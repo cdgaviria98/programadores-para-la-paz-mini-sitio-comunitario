@@ -1,39 +1,69 @@
 Curaduría de datos visibles – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 19 de mayo de 2026
+Nombre de la rama: cristian_gaviria
 
 Revisa los datos disponibles en data/mensajes.json y data/calendario-editorial.json.
 
 1. ¿Qué datos sí deben mostrarse públicamente en el tablero de mensajes?
 
-Respuesta:
+Respuesta: El título, el mensaje principal y el llamado a la acción. Estos
+elementos comunican de manera directa la información esencial y la tarea
+concreta que se espera que realice el ciudadano, garantizando una lectura
+rápida y sin distracciones.
+
 
 2. ¿Qué datos no deberían mostrarse públicamente o deben mostrarse con cuidado?
 
-Respuesta:
+Respuesta: El ID técnico, los metadatos de control interno (como el tono de la
+redacción) y el estado detallado de la revisión editorial. Además, en el
+calendario, campos como las observaciones operativas o el nombre del
+responsable interno no aportan valor al usuario común y sobrecargan la vista.
+
 
 3. ¿Por qué no todo lo que está en el JSON debe aparecer en la vista pública?
 
-Respuesta:
+Respuesta: Porque el backend almacena información de control técnico, logístico
+y pedagógico necesaria para la administración del proyecto. Exponerla satura la
+interfaz, eleva la carga cognitiva de la comunidad y vulnera el principio de
+privacidad por diseño al revelar la estructura interna de trabajo.
+
 
 4. ¿Qué datos ayudan a la comunidad a entender el mensaje?
 
-Respuesta:
+Respuesta: La categoría (que contextualiza la temática como cultura de paz o
+convivencia), el propio texto explicativo del mensaje y el público objetivo o
+audiencia a la que va dirigida explícitamente la comunicación.
+
 
 5. ¿Qué datos ayudan a verificar la información?
 
-Respuesta:
+Respuesta: La fuente institucional de procedencia (por ejemplo: "Canal
+institucional comunitario" o "Equipo de comunicaciones") junto con la fecha
+de publicación. Estos datos permiten al ciudadano contrastar la veracidad
+y vigencia del aviso.
+
 
 6. ¿Qué datos podrían ser internos para revisión editorial?
 
-Respuesta:
+Respuesta: Las observaciones de moderación (como "Evitar lenguaje acusatorio",
+"Confirmar responsable"), el nombre del responsable técnico/docente y el
+campo de validación de revisión editorial. Son guías de trabajo para el
+equipo, no para el público.
+
 
 7. ¿Cómo se relaciona la minimización de datos visibles con la confianza comunitaria?
 
-Respuesta:
+Respuesta: Al mostrar únicamente lo necesario se construye un canal limpio,
+transparente y seguro. Evitar la sobreexposición de datos técnicos o sensibles
+reduce rumores, impide la desinformación por malas interpretaciones y demuestra
+respeto por la privacidad y seguridad de la comunidad.
+
 
 8. Escribe una regla de curaduría para el tablero:
 
-Respuesta:
+Respuesta: "Todo mensaje que se publique en la vitrina comunitaria debe contar 
+con una revisión editorial aprobada, citar explícitamente una fuente confiable 
+y verificable, y utilizar un lenguaje asertivo, libre de términos alarmistas 
+o estigmatizantes."

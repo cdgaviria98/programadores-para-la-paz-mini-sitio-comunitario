@@ -1,67 +1,101 @@
 Checklist de accesibilidad y seguridad visual – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 19 de mayo de 2026
+Nombre de la rama: cristian_gaviria
 
-Marca SÍ o NO y explica brevemente.
+----------------------------------------------------------------------
 
 1. Tablero de mensajes
-
 ¿La interfaz funciona como vitrina comunitaria clara?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: El tablero actúa como un canal abierto estructurado que
+expone dinámicamente los comunicados validados desde la API, sirviendo
+como un espacio transparente de consulta para la ciudadanía.
+
 
 2. Accesibilidad mínima
-
 ¿Los títulos son comprensibles y las secciones están separadas?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: Se identifican títulos explícitos para cada módulo
+("Tablero de mensajes", "Calendario editorial", "Resumen de la API"),
+lo que facilita la lectura a través de lectores de pantalla y asegura
+una navegación predecible.
+
 
 3. Legibilidad
-
 ¿Los textos se pueden leer con facilidad?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: La redacción es directa y los bloques de información están
+organizados mediante etiquetas claras (Categoría, Audiencia, Fuente),
+lo que reduce la carga cognitiva de los usuarios al interactuar con el sitio.
+
 
 4. Contraste suficiente
-
 ¿El texto se distingue del fondo?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: Al estructurarse en tarjetas con metadatos bien definidos
+y organizados por bloques semánticos independientes, se garantiza un
+entorno visual limpio que favorece la distinción cromática y de tipografía.
+
 
 5. Jerarquía visual
-
 ¿Se entiende qué información es principal y qué información es secundaria?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: Los encabezados de las tarjetas enfatizan la acción central o
+el mensaje clave ("Verifica antes de compartir"), relegando los detalles
+de control de calidad (Tono, Revisión editorial) a un plano de lectura
+secundario pero accesible.
+
 
 6. Lenguaje claro
-
 ¿Los mensajes son comprensibles para una comunidad general?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: Se evita el tecnicismo innecesario en la capa pública; el
+lenguaje empleado es asertivo y adaptado para audiencias transversales,
+promoviendo conceptos cotidianos de convivencia digital.
+
 
 7. Organización visual coherente
-
 ¿Las tarjetas mantienen una estructura similar?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: Todos los mensajes comunitarios mapeados desde el backend
+repiten estrictamente el mismo patrón de metadatos (Categoría, Audiencia,
+Tono, Llamado a la acción, Fuente y Revisión), permitiendo al usuario
+automatizar su comprensión visual.
+
 
 8. Seguridad visual
-
 ¿La vista pública evita saturación, confusión o exposición innecesaria?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: La interfaz se fragmenta en zonas de acción específicas
+mediante botones de carga controlada ("Cargar mensajes", "Cargar calendario"),
+evitando la sobrecarga simultánea de elementos que confunda a la comunidad.
+
 
 9. Minimización de datos visibles
-
 ¿La página muestra solo la información necesaria?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: El login expone con transparencia que se trata de un ejercicio
+académico simulado (pedagógico), previniendo activamente la solicitud o
+visualización de identificadores reales, tokens de producción o datos
+privados de los participantes.
+
 
 10. Lenguaje responsable y no estigmatizante
-
 ¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: Los contenidos están orientados a la cultura de paz y la
+mitigación de discursos de odio o rumores. Textos como "Comparte tus ideas
+sin atacar a otras personas" refuerzan el uso de la tecnología como un
+entorno seguro, constructivo y libre de estigmas.

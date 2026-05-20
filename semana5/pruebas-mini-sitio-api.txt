@@ -1,7 +1,7 @@
 Pruebas del mini-sitio y API – Clase 21
 
 Nombre del estudiante: Cristian David Gaviria Mosquera
-Fecha: 13 de mayo de 2026
+Fecha: 19 de mayo de 2026
 Nombre de la rama: cristian_gaviria
 
 Prueba 1: Abrir mini-sitio

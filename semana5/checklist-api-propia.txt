@@ -1,67 +1,97 @@
 Checklist de API propia – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 19 de mayo de 2026
+Nombre de la rama: cristian_gaviria
 
-Marca SÍ o NO y explica brevemente.
+----------------------------------------------------------------------
 
 1. Integración Frontend-Backend
-
 ¿El frontend consulta información del backend?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: El mini-sitio utiliza botones de carga interactivos para
+solicitar datos bajo demanda al backend, logrando actualizar las secciones
+del tablero, el calendario y el resumen de forma dinámica.
+
 
 2. Consumo de la API propia
-
 ¿La página usa rutas del mismo proyecto?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: La aplicación consume de manera nativa los endpoints del
+servidor local Express, integrando la lógica interna del proyecto con la
+interfaz pública.
+
 
 3. Mensajes dinámicos
-
 ¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: El contenido de los mensajes comunitarios, tales como
+"Verifica antes de compartir" y "Participa con respeto", se inyecta
+en la vista a partir de los datos almacenados y estructurados del backend.
+
 
 4. Ruta GET /api/mensajes
-
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: El endpoint está operativo y retorna con éxito el arreglo
+con los 3 mensajes comunitarios, incluyendo sus respectivos metadatos de
+categoría, audiencia, tono y estado de revisión editorial.
+
 
 5. Ruta GET /api/calendario
-
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: La ruta devuelve exitosamente las 6 piezas que componen
+el cronograma editorial, distribuidas cronológicamente desde la Semana 1
+hasta la Semana 2.
+
 
 6. Ruta GET /api/resumen
-
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: El endpoint responde correctamente entregando las métricas
+consolidadas del proyecto: un total de 3 mensajes, 6 piezas del calendario
+y el listado de las 3 categorías activas.
+
 
 7. Respuesta JSON
-
 ¿Las rutas entregan datos estructurados?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: Las respuestas del backend viajan en formato JSON bien
+formateado, organizando la información en pares clave-valor (como Tema,
+Pieza, Canal, Propósito y Fuente) para su fácil lectura.
+
 
 8. Render dinámico
-
 ¿El tablero muestra datos recibidos desde la API?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: Tras pulsar las funciones de carga, los contenedores vacíos
+procesan el JSON recibido y pintan dinámicamente las tarjetas del tablero
+y las filas correspondientes al calendario editorial.
+
 
 9. Diagnóstico básico
-
 ¿Sabes qué revisar si no carga la información?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: Se debe verificar que el servidor local en Node.js esté
+corriendo en el puerto 3000, revisar la pestaña Network/Red en las
+Herramientas de Desarrollador del navegador para validar el estado de las
+peticiones HTTP (200 OK) y confirmar la correcta lectura de los archivos JSON.
+
 
 10. Comunicación responsable
-
 ¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
 
-Respuesta:
+Respuesta: SÍ.
+Explicación: La información servida de forma dinámica mantiene un tono
+pedagógico e informativo, atribuye claramente el origen de los datos mediante
+fuentes institucionales y promueve un lenguaje constructivo y libre de estigmas.

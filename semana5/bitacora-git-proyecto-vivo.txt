@@ -18,7 +18,7 @@ Respuesta: su propia rama, con su nombre, diferente a main
 
 4. Comando usado para clonar el repositorio:
 
-Respuesta: gti clone https://github.com/cdgaviria98/programadores-para-la-paz-mini-sitio-comunitario.git
+Respuesta: git clone https://github.com/cdgaviria98/programadores-para-la-paz-mini-sitio-comunitario.git
 
 5. Comando usado para entrar a la carpeta del proyecto:
 

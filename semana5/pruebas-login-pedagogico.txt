@@ -1,8 +1,8 @@
 Pruebas de login pedagógico – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 19 de mayo de 2026
+Nombre de la rama: cristian_gaviria
 
 Importante:
 Este login es solo pedagógico. No es autenticación real.
@@ -15,12 +15,11 @@ http://localhost:3000
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Prueba 2: Login con credenciales de demostración
 
-Usuario:
-docente
+Usuario: docente
 
 Clave:
 demo
@@ -29,9 +28,11 @@ Resultado esperado:
 El servidor responde con mensaje de login pedagógico correcto.
 
 Resultado observado:
+El servidor responde con mensaje de login pedagógico correcto.
+
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Prueba 3: Login con clave incorrecta
 
@@ -44,10 +45,10 @@ incorrecta
 Resultado esperado:
 El servidor responde que usuario o clave son incorrectos.
 
-Resultado observado:
+Resultado observado: Usuario o clave de demostración incorrectos.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si porque no permitio el acceso con credenciales incorrectas
 
 Prueba 4: Revisar almacenamiento del token de demostración
 

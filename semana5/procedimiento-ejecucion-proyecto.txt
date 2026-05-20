@@ -1,8 +1,8 @@
 Procedimiento de ejecución del proyecto – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Cristian David Gaviria Mosquera
+Fecha: 19 de mayo de 2026
+Nombre de la rama: cristian_gaviria
 
 Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
 

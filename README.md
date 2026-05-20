@@ -82,25 +82,36 @@ Flujo de trabajo con Git
 La rama main es actualizada por docentes.
 Cada estudiante trabaja en su rama personal:
 git checkout nombres_apellidos
+
 Al iniciar cada clase:
 git checkout main
 git pull --ff-only origin main
 git checkout nombres_apellidos
 git merge main
+
 Al terminar cada clase:
 git status
 git add .
-git commit -m "Mensaje claro del avance"
-git push
+git commit -m "Mensaje claro y descriptivo del avance realizado"
+git push origin nombres_apellidos
+
 Uso responsable de IA
+
 La IA puede ayudar a mejorar redacción, organizar pasos y aclarar errores.
-No se debe usar IA para publicar:
-credenciales reales
-tokens reales
-datos personales
-información sensible de la comunidad
-contenido sin verificar
+
+
+Uso Responsable de Inteligencia Artificial
+La IA es un copiloto valioso para optimizar código, refinar redacciones técnicas y aclarar errores de sintaxis, bajo las siguientes pautas éticas:
+
+Prohibido publicar: Nunca compartas en prompts de IA ni dejes escritos en el código: credenciales reales, tokens de acceso, datos personales o información sensible de la comunidad.
+
+No automatizar contenido sin verificar: No utilices IA para publicar comunicados u opiniones comunitarias sin que hayan pasado por un riguroso proceso de validación humana de fuentes.
+
+Revisión obligatoria: Toda sugerencia técnica o lógica proporcionada por una IA debe ser leída, comprendida y probada exhaustivamente por ti antes de ser aceptada.
+
 Toda sugerencia de IA debe revisarse y probarse antes de aceptarse.
 Evidencia
-La evidencia se registra únicamente con el push de la rama personal en GitHub.
-No se deben entregar capturas, archivos adicionales ni enlaces por Moodle.
+
+Único medio válido: Tu progreso se registrará y evaluará exclusivamente mediante el historial de confirmaciones (push) reflejado en tu rama personal dentro de GitHub.
+
+Restricciones estrictas: No se aceptarán capturas de pantalla, archivos comprimidos ni enlaces externos enviados por Moodle. Si el avance no se encuentra respaldado en GitHub, no será contabilizado.
